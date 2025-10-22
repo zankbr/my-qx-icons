@@ -1,0 +1,82 @@
+{
+  "name": "我的图标库",
+  "description": "我的 Lobe-Icons 仓库",
+  "icons": [
+    {
+      "name": "adobefirefly-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/adobefirefly-color.png"
+    },
+    {
+      "name": "anthropic",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/anthropic.png"
+    },
+    {
+      "name": "bing-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/bing-color.png"
+    },
+    {
+      "name": "bytedance-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/bytedance-color.png"
+    },
+    {
+      "name":"cline",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/cline.png"
+    },
+    {
+      "name": "copilot-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/copilot-color.png"
+    },
+    {
+      "name": "dalle-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/dalle-color.png"
+    },
+    {
+      "name": "gemini-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/gemini-color.png"
+    },
+    {
+      "name": "gemma-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/gemma-color.png"
+    },
+    {
+      "name": "google-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/google-color.png"
+    },
+    {
+      "name": "grok",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/grok.png"
+    },
+    {
+      "name": "meta-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/meta-color.png"
+    },
+    {
+      "name": "midjourney",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/midjourney.png"
+    },
+    {
+      "name": "mistral-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/mistral-color.png"
+    },
+    {
+      "name": "openai",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/openai.png"
+    },
+    {
+      "name": "runway",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/runway.png"
+    },
+    {
+      "name": "suno",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/suno.png"
+    },
+    {
+      "name": "xai",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/xai.png"
+    },
+    {
+      "name": "zhipu-color",
+      "url": "https://raw.githubusercontent.com/zankbr/my-qx-icons/main/zhipu-color.png"
+    }
+  ]
+}
